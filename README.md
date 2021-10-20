@@ -11,7 +11,7 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 4. What products are most often sold together?
 5. What product sold the most? Why do you think it sold the most?
-6. To answer these questions we walk through many different pandas & matplotlib methods. They include:
+To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
 Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 Adding columns
